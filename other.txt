@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 other line
+=======
+this is my second file
+>>>>>>> adeffff0efca3b14b1f1bfb48426f451085bce04
